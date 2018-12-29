@@ -23,7 +23,7 @@ An example of a normal tag would be the paragraph:
 
 ```html
 <p>I am a paragraph.</p>
-```
+```  m
 
 An example of a self-closing tag, an image:
 
